@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
