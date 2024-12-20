@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0665-non-decreasing-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/aagmannag/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Depth-First Search
 |  |
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/aagmannag/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
