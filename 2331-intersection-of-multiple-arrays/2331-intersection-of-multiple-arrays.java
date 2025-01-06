@@ -1,25 +1,19 @@
 class Solution {
     public List<Integer> intersection(int[][] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int freq[] = new int[1001];
         int len = nums.length;
-
-        for (int[] subarray : nums) {
-            HashSet<Integer> set = new HashSet<>();
-            for (int num : subarray) {
-                set.add(num);
-            }
-            for (int num : set) {
-                map.put(num, map.getOrDefault(num, 0) + 1);
-            }
-        }
-        List<Integer> result = new ArrayList<>();
-        for (int num : map.keySet()) {
-            if (map.get(num) == len) {
-                result.add(num);
+        
+        for(int i = 0; i < nums.length; i++){
+            for(int j = 0; j < nums[i].length; j++){
+                freq[nums[i][j]]++;
             }
         }
 
-        Collections.sort(result);
-        return result;
+        List<Integer> list = new ArrayList<>();
+
+        for(int i = 1; i < 1001; i++){
+            if(freq[i] == len) list.add(i);
+        }
+        return list;
     }
 }
