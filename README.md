@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aagmannag/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aagmannag/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aagmannag/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aagmannag/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/aagmannag/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
