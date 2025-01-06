@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/aagmannag/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aagmannag/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [1904-second-largest-digit-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/aagmannag/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0665-non-decreasing-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0665-non-decreasing-array) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/aagmannag/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
