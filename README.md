@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aagmannag/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aagmannag/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/aagmannag/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aagmannag/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
