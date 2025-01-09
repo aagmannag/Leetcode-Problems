@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aagmannag/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/aagmannag/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aagmannag/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/aagmannag/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aagmannag/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/aagmannag/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aagmannag/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
