@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aagmannag/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1904-second-largest-digit-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/aagmannag/Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aagmannag/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/aagmannag/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aagmannag/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
