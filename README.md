@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0812-rotate-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/aagmannag/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
