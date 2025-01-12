@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0564-find-the-closest-palindrome](https://github.com/aagmannag/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aagmannag/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aagmannag/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
