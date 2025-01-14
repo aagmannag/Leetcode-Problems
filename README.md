@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/aagmannag/Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aagmannag/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/aagmannag/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/aagmannag/Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0078-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
