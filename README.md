@@ -125,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 ## Matrix
@@ -290,9 +292,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 ## Brainteaser
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aagmannag/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
