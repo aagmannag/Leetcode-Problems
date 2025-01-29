@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aagmannag/Leetcode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aagmannag/Leetcode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
@@ -299,12 +301,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aagmannag/Leetcode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 ## Brainteaser
 |  |
