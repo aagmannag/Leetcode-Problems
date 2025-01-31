@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aagmannag/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/aagmannag/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0328-odd-even-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aagmannag/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
