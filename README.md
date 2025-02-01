@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aagmannag/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
