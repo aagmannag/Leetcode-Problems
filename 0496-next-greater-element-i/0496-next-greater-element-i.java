@@ -1,18 +1,21 @@
 class Solution {
-    public static int[] nextGreater(int[] nums) {
-    int n = nums.length;
-    Stack<Integer> st = new Stack<>();
-    int[] res = new int[n];
-    for (int i = n - 1; i >= 0; i--) {
-        while (!st.isEmpty() && st.peek() <= nums[i]) {
+    public static int[] nextGreater(int[] nums){
+        int n = nums.length;
+        Stack<Integer> st = new Stack<>();
+        int[] res = new int[n];
+        for(int i = 0 ; i < n ; i++){
+            while(!st.isEmpty() && nums[i] > nums[st.peek()]){
+                res[st.peek()] = nums[i];
+                st.pop();
+            }
+            st.push(i);
+        }
+        while(!st.isEmpty()){
+            res[st.peek()] = -1;
             st.pop();
         }
-        res[i] = st.isEmpty() ? -1 : st.peek();
-        st.push(nums[i]);
+        return res;
     }
-    return res;
-}
-
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int[] nge = new int[nums2.length];
         nge = nextGreater(nums2);
