@@ -3,17 +3,16 @@ class Solution {
         return build(s).equals(build(t));
     }
     private String build(String str){
-        Stack<Character> mt = new Stack<>();
+        StringBuilder sb = new StringBuilder();
         for(char c : str.toCharArray()){
             if(c == '#'){
-                if(!mt.isEmpty()){
-                    mt.pop();
+                if(sb.length() > 0){
+                    sb.deleteCharAt(sb.length() - 1);
                 }
             }else{
-                mt.push(c);
+                sb.append(c);
             }
         }
-        String ans = mt.toString();
-        return ans;
+        return sb.toString();
     }
 }
