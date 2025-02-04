@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0564-find-the-closest-palindrome](https://github.com/aagmannag/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0812-rotate-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/aagmannag/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aagmannag/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0874-backspace-string-compare](https://github.com/aagmannag/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/aagmannag/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/aagmannag/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aagmannag/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/aagmannag/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
+| [0874-backspace-string-compare](https://github.com/aagmannag/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
