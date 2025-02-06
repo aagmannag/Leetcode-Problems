@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aagmannag/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/aagmannag/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aagmannag/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/aagmannag/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aagmannag/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aagmannag/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
