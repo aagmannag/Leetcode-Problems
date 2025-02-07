@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
@@ -380,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/aagmannag/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aagmannag/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
