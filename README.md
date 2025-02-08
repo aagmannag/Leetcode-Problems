@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2434-design-a-number-container-system](https://github.com/aagmannag/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/aagmannag/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aagmannag/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [2434-design-a-number-container-system](https://github.com/aagmannag/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/aagmannag/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aagmannag/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [2434-design-a-number-container-system](https://github.com/aagmannag/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 ## Tree
 |  |
 | ------- |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aagmannag/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
