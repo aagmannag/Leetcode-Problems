@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/aagmannag/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/aagmannag/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aagmannag/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/aagmannag/Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aagmannag/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/aagmannag/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/aagmannag/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/aagmannag/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/aagmannag/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/aagmannag/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aagmannag/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
 |  |
