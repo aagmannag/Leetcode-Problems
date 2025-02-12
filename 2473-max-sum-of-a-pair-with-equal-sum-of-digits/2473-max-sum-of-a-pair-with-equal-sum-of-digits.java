@@ -1,15 +1,18 @@
 class Solution {
     public int maximumSum(int[] nums) {
         int max = -1;
-        HashMap<Integer, Integer> map = new HashMap<>();
+        // HashMap<Integer, Integer> map = new HashMap<>();
+        int map[] = new int[82];
         for(int i : nums){
             int digitSum = sumOfDigit(i);
-            if(map.containsKey(digitSum)){
-                int prevNum = map.get(digitSum);
+            if(map[digitSum] > 0){
+                int prevNum = map[digitSum];
                 max = Math.max(prevNum + i, max);
-                map.put(digitSum, Math.max(prevNum, i));
+                map[digitSum] = Math.max(prevNum, i);
+                // map.put(digitSum, Math.max(prevNum, i));
             }else{
-                map.put(digitSum, i);
+                map[digitSum] = i;
+                // map.put(digitSum, i);
             }
         }
         return max;
