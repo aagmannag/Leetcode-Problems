@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aagmannag/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aagmannag/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/aagmannag/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aagmannag/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aagmannag/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/aagmannag/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aagmannag/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aagmannag/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aagmannag/Leetcode-Problems/tree/master/0055-jump-game) |
