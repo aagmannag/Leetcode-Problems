@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aagmannag/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aagmannag/Leetcode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/aagmannag/Leetcode-Problems/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1364-tuple-with-same-product](https://github.com/aagmannag/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aagmannag/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/aagmannag/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aagmannag/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
