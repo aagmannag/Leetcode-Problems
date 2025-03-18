@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aagmannag/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/aagmannag/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aagmannag/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aagmannag/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/aagmannag/Leetcode-Problems/tree/master/0338-counting-bits) |
+| [2478-longest-nice-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/aagmannag/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aagmannag/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aagmannag/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aagmannag/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
