@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aagmannag/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/aagmannag/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0617-merge-two-binary-trees](https://github.com/aagmannag/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aagmannag/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/aagmannag/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aagmannag/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/aagmannag/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
