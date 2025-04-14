@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/aagmannag/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/aagmannag/Leetcode-Problems/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aagmannag/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
