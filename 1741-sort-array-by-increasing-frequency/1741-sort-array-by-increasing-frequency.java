@@ -5,20 +5,28 @@ class Solution {
         for(int i : nums){
             map.put(i, map.getOrDefault(i, 0)+1);
         }
-        Integer temp[] = new Integer[n]; // For comprator
-        for(int i = 0; i < n; i++){
-            temp[i] = nums[i];
+        Integer temp[] = new Integer[map.size()]; // For comprator
+        int i = 0;
+        // Sort the Keys
+        for(Integer key : map.keySet()){
+            temp[i] = key;
+            i++;
         }
         Arrays.sort(temp, new Comparator<Integer>(){
             public int compare(Integer a, Integer b){
                 if(map.get(a) == map.get(b)){
-                    return b - a;
+                    return b - a; // Dec order of value
                 }
-                return map.get(a) - map.get(b);
+                return map.get(a) - map.get(b); // Inc order of value
             }
         });
-        for(int i = 0; i < n; i++){
-            nums[i] = temp[i];
+        i = 0;
+        for(int key : temp){
+            int f = map.get(key);
+            for(int j = 0; j < f; j++){
+                nums[i] = key;
+                i++;
+            }
         }
         return nums;
     }
