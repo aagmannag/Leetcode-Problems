@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/aagmannag/Leetcode-Problems/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1364-tuple-with-same-product](https://github.com/aagmannag/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aagmannag/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aagmannag/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aagmannag/Leetcode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aagmannag/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Brainteaser
 |  |
 | ------- |
