@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aagmannag/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aagmannag/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 ## Simulation
 |  |
 | ------- |
