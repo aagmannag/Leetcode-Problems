@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/aagmannag/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/aagmannag/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aagmannag/Leetcode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/aagmannag/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/aagmannag/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aagmannag/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aagmannag/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aagmannag/Leetcode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/aagmannag/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/aagmannag/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/aagmannag/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aagmannag/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Brainteaser
 |  |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/aagmannag/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/aagmannag/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 ## Simulation
 |  |
 | ------- |
