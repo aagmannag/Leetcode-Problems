@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aagmannag/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/aagmannag/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0564-find-the-closest-palindrome](https://github.com/aagmannag/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
