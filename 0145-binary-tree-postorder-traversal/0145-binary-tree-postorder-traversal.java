@@ -16,12 +16,14 @@
 
 
 // Using 2 Stack
+
+// TC = O(N);
+// SC = O(2N); 
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         ArrayList<Integer> ans = new ArrayList<>();
         Stack<TreeNode> s1 = new Stack<>();
-        Stack<TreeNode> s2 = new Stack<>()
-        ;
+        Stack<TreeNode> s2 = new Stack<>();
         if(root == null) return ans;
         s1.push(root);
         while(!s1.isEmpty()){
