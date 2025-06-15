@@ -13,15 +13,20 @@
  *     }
  * }
  */
+
+// TC - O(N)
+
 class Solution {
     public boolean isBalanced(TreeNode root) {
         if(root == null) return true;
-        if(Math.abs(height(root.left) - height(root.right)) > 1) return false;
-        return isBalanced(root.left) && isBalanced(root.right);
-
+        return height(root) != -1;
     }
     private int height(TreeNode root){
         if(root == null) return 0;
-        return 1 + Math.max(height(root.left), height(root.right));
+        int left = height(root.left);
+        int right = height(root.right);
+        int diff = Math.abs(left - right);
+        if(diff > 1 || left == -1 || right == -1) return -1;
+        return 1 + Math.max(left, right);
     }
 }
