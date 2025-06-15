@@ -1,41 +1,30 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+// using 1 stack
 
-
-// Using 2 Stack
-
-// TC = O(N);
-// SC = O(2N); 
+// TC = O(2N)
+// SC = O(N)
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        Stack<TreeNode> s1 = new Stack<>();
-        Stack<TreeNode> s2 = new Stack<>();
-        if(root == null) return ans;
-        s1.push(root);
-        while(!s1.isEmpty()){
-            TreeNode store = s1.pop();
-            s2.push(store);
-            if(store.left != null) s1.push(store.left);
-            if(store.right != null) s1.push(store.right);
+        List<Integer> ans = new ArrayList<>();
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode curr = root;
+        TreeNode lastVisited = null;
+
+        while (curr != null || !stack.isEmpty()) {
+            if (curr != null) {
+                stack.push(curr);
+                curr = curr.left;
+            } else {
+                TreeNode peekNode = stack.peek();
+                if (peekNode.right != null && lastVisited != peekNode.right) {
+                    curr = peekNode.right;
+                } else {
+                    stack.pop();
+                    ans.add(peekNode.val);
+                    lastVisited = peekNode;
+                }
+            }
         }
-        while(!s2.isEmpty()){
-            TreeNode a = s2.pop();
-            ans.add(a.val);
-        }
+
         return ans;
     }
 }
