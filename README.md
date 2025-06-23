@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aagmannag/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2181-smallest-index-with-equal-value](https://github.com/aagmannag/Leetcode-Problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aagmannag/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aagmannag/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
