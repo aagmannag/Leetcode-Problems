@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1769-get-maximum-in-generated-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/1769-get-maximum-in-generated-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1839-decode-xored-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/1839-decode-xored-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aagmannag/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/aagmannag/Leetcode-Problems/tree/master/0338-counting-bits) |
+| [1839-decode-xored-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/aagmannag/Leetcode-Problems/tree/master/2509-minimize-xor) |
