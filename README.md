@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/aagmannag/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/aagmannag/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/aagmannag/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/aagmannag/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/aagmannag/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aagmannag/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
