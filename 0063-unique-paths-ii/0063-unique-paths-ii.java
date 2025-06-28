@@ -5,14 +5,14 @@ class Solution {
         int[][] dp = new int[n][m];
         for(int i = 0; i < n; i++){
             if(obstacleGrid[i][0] == 1){
-                break;
+                break; // all cells after it are automatically unreachable. You cannot cross an obstacle in the same row.
             }else{
                 dp[i][0] = 1;
             }
         }
         for(int i = 0; i < m; i++){
             if(obstacleGrid[0][i] == 1){
-                break;
+                break; // all cells after it are automatically unreachable. You cannot cross an obstacle in the same row.
             }else{
                 dp[0][i] = 1;
             }
