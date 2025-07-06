@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aagmannag/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/aagmannag/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/aagmannag/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/aagmannag/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/aagmannag/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aagmannag/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
