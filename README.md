@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0564-find-the-closest-palindrome](https://github.com/aagmannag/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/aagmannag/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0952-word-subsets) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aagmannag/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/aagmannag/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aagmannag/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/aagmannag/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aagmannag/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aagmannag/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aagmannag/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
