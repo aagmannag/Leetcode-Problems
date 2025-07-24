@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/aagmannag/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aagmannag/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aagmannag/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aagmannag/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aagmannag/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/aagmannag/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/aagmannag/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [1839-decode-xored-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
