@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/aagmannag/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/aagmannag/Leetcode-Problems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/aagmannag/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aagmannag/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aagmannag/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/aagmannag/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [1839-decode-xored-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/1839-decode-xored-array) |
