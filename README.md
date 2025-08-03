@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aagmannag/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/aagmannag/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0564-find-the-closest-palindrome](https://github.com/aagmannag/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/aagmannag/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/aagmannag/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Array
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aagmannag/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/aagmannag/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/aagmannag/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [1839-decode-xored-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/1839-decode-xored-array) |
