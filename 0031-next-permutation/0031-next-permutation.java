@@ -1,7 +1,7 @@
 class Solution {
     public void nextPermutation(int[] nums) {
         int n = nums.length;
-        int store = Integer.MIN_VALUE, max = 0;
+        int store = -1, max = 0;
         for(int i = n-1; i > 0; i--){
             if(nums[i] > nums[i-1]){
                 store = i-1;
@@ -20,7 +20,7 @@ class Solution {
             nums[max] = temp;
         }
         int s = store+1, e = n-1;
-        if(store < -1){
+        if(store == -1){
             s = 0;
         }
         while(s <= e){
