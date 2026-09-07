@@ -1,16 +1,12 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int sum = 0, count = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
         for(int i : nums){
-            if(count == 0){
-                sum = i;
-                count++;
-            }else if(i == sum){
-                count++;
-            }else{
-                count--;
+            map.put(i, map.getOrDefault(i, 0) + 1);
+            if(map.get(i) > nums.length/2){
+                return i;
             }
         }
-        return sum;
+        return 0;
     }
 }
