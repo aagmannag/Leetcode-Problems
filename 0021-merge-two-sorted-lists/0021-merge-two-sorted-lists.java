@@ -14,26 +14,24 @@ class Solution {
         if(list2 == null) return list1;
         ListNode dummy = new ListNode(0);
         ListNode temp = dummy;
-        ListNode slow = list1;
-        ListNode fast = list2;
-
-        while(slow != null && fast != null){
-            if(slow.val < fast.val){
-                ListNode a = new ListNode(slow.val);
+        while(list1 != null && list2 != null){
+            if(list1.val < list2.val){
+                ListNode a = new ListNode (list1.val);
                 temp.next = a;
                 temp = a;
-                slow = slow.next;
+                list1 = list1.next;
             }else{
-                ListNode b = new ListNode(fast.val);
+                ListNode b = new ListNode(list2.val);
                 temp.next = b;
                 temp = b;
-                fast = fast.next;
+                list2 = list2.next;
             }
         }
-        if(slow == null){
-            temp.next = fast;
-        }else{
-            temp.next = slow;
+        if(list1 == null){
+            temp.next = list2;
+        }
+        if(list2 == null){
+            temp.next = list1;
         }
         return dummy.next;
     }
