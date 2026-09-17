@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aagmannag/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/aagmannag/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Array
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aagmannag/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aagmannag/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aagmannag/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aagmannag/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aagmannag/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aagmannag/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/aagmannag/Leetcode-Problems/tree/master/0735-asteroid-collision) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aagmannag/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aagmannag/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aagmannag/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
