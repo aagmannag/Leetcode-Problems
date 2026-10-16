@@ -20,9 +20,9 @@ class Solution {
             nums[max] = temp;
         }
         int s = store+1, e = n-1;
-        if(store == -1){
-            s = 0;
-        }
+        // if(store == -1){
+        //     s = 0;
+        // }
         while(s <= e){
             int t = nums[s];
             nums[s] = nums[e];
