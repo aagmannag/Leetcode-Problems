@@ -1,14 +1,14 @@
 class Solution {
     public int maxProduct(int[] nums) {
+        int leftmax = 1;
+        int rightmax = 1;
+        int max = Integer.MIN_VALUE;
         int n = nums.length;
-        int left = 1;
-        int right = 1;
-        int m = Integer.MIN_VALUE;
         for(int i = 0; i < n; i++){
-            left = (left == 0 ? 1 : left) * nums[i];
-            right = (right == 0 ? 1 : right) * nums[n-i-1];
-            m = Math.max(Math.max(left, right), m);
+            leftmax = ((leftmax == 0)? 1: leftmax) * nums[i];
+            rightmax = ((rightmax == 0)? 1: rightmax) * nums[n-i-1];
+            max = Math.max(max, Math.max(leftmax, rightmax));  
         }
-        return m;
+        return max;
     }
 }
