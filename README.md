@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aagmannag/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/aagmannag/Leetcode-Problems/tree/master/0792-binary-search) |
 ## Interactive
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aagmannag/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/aagmannag/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/aagmannag/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/aagmannag/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aagmannag/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/aagmannag/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/aagmannag/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aagmannag/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aagmannag/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/aagmannag/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -838,4 +843,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
