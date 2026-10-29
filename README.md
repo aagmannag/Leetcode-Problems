@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aagmannag/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/aagmannag/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/aagmannag/Leetcode-Problems/tree/master/0792-binary-search) |
 ## Interactive
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/aagmannag/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/aagmannag/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/aagmannag/Leetcode-Problems/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aagmannag/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aagmannag/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/aagmannag/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aagmannag/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
